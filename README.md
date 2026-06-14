@@ -1,16 +1,31 @@
-### Hi there 👋
+# Damien Murphy
 
-<!--
-**damienomurchu/damienomurchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level DevSecOps and Platform Engineer.
 
-Here are some ideas to get you started:
+I build systems that survive contact with reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in platform engineering, developer experience, security, automation, AI, and the messy intersection between technology and people.
+
+---
+
+## Current Missions
+
+- Making secure paths the easiest paths
+- Reducing cognitive load for engineers
+- Building leverage through automation
+- Experimenting with local AI infrastructure
+- Writing down things worth remembering
+
+---
+
+## Current Stack
+
+Kubernetes • AWS • GitHub Actions • Containers • Python • Linux • DevSecOps
+
+---
+
+## Principle
+
+> Anything can break with enough pressure.
+>
+> Design accordingly.
