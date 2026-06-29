@@ -1,24 +1,24 @@
 # Damien Murphy
 
-Staff-level DevSecOps and Platform Engineer.
+Staff-level DevSecOps & Platform Engineer.
 
-I build systems designed to survive reality.
+I build durable systems designed to survive reality.
 
-Interested in platform engineering, developer experience, security, automation, AI, and the educational intersection between technology and people.
+Interested in platform engineering, developer experience, security, automation, AI, and helping engineers build better systems.
 
 ---
 
-## Current Missions
+## Current Focus
 
 - Making secure paths the easiest paths
 - Reducing cognitive load for engineers
 - Building leverage through automation
 - Experimenting with local AI infrastructure
-- Persisting things that matter
+- Designing systems that compound knowledge
 
 ---
 
-## Current Stack
+## Working With
 
 Kubernetes • AWS • GitHub Actions • Containers • Python • Linux • DevSecOps
 
@@ -26,4 +26,4 @@ Kubernetes • AWS • GitHub Actions • Containers • Python • Linux • De
 
 ## Guiding Principles
 
-> Anything can break with enough pressure - design (and refine) accordingly.
+> Anything can break with enough pressure - design, and continuously refine, accordingly.
