@@ -2,9 +2,9 @@
 
 Staff-level DevSecOps and Platform Engineer.
 
-I build systems that survive contact with reality.
+I build systems designed to survive reality.
 
-Interested in platform engineering, developer experience, security, automation, AI, and the messy intersection between technology and people.
+Interested in platform engineering, developer experience, security, automation, AI, and the educational intersection between technology and people.
 
 ---
 
@@ -14,7 +14,7 @@ Interested in platform engineering, developer experience, security, automation, 
 - Reducing cognitive load for engineers
 - Building leverage through automation
 - Experimenting with local AI infrastructure
-- Writing down things worth remembering
+- Persisting things that matter
 
 ---
 
@@ -24,8 +24,6 @@ Kubernetes • AWS • GitHub Actions • Containers • Python • Linux • De
 
 ---
 
-## Principle
+## Guiding Principles
 
-> Anything can break with enough pressure.
->
-> Design accordingly.
+> Anything can break with enough pressure - design (and refine) accordingly.
