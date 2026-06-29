@@ -24,6 +24,6 @@ Kubernetes • AWS • GitHub Actions • Containers • Python • Linux • De
 
 ---
 
-## Guiding Principles
+## Guiding Principle
 
-> Anything can break with enough pressure - design, and continuously refine, accordingly.
+> Anything can break with enough pressure. Design, and continuously refine, accordingly.
