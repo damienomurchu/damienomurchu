@@ -8,6 +8,20 @@ My work spans platform engineering, DevSecOps, developer experience, automation,
 
 ---
 
+## Writing
+
+I write at [Forged](https://forged.damienmurphy.net) about platform engineering, secure software delivery, engineering judgement, organisational systems, and the design of durable personal systems.
+
+Recent writing:
+
+- [How judgement, not technical skill, defines a senior engineer](https://forged.damienmurphy.net/judgement-defines-a-senior-engineer/)
+- [Designing a personal learning platform](https://forged.damienmurphy.net/personal-learning-platform/)
+- [The dashboard is not the work](https://forged.damienmurphy.net/developer-activity/)
+
+[Read all writing →](https://forged.damienmurphy.net)
+
+---
+
 ## Current Focus
 
 - Making secure paths the easiest paths
