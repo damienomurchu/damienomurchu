@@ -14,9 +14,9 @@ I write at [Forged](https://forged.damienmurphy.net) about platform engineering,
 
 Recent writing:
 
-- [How judgement, not technical skill, defines a senior engineer](https://forged.damienmurphy.net/judgement-defines-a-senior-engineer/)
+- [The runner was easy. The platform was the real engineering](https://forged.damienmurphy.net/building-a-runner-platform/)
 - [Designing a personal learning platform](https://forged.damienmurphy.net/personal-learning-platform/)
-- [The dashboard is not the work](https://forged.damienmurphy.net/developer-activity/)
+- [Personal systems are production systems](https://forged.damienmurphy.net/personal-production-systems/)
 
 [Read all writing →](https://forged.damienmurphy.net)
 
